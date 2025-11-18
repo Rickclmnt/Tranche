@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", async () => {
   profileBtn.addEventListener("click", () => location.href = "profile.html");
 
   const endpoints = {
-    breaking: "testdata/dummy_breaking.json", //../data/breaking_feed.json",
-    daily: "testdata/dummy_daily.json", //../data/daily_brief.json",
-    weekly: "testdata/dummy_weekly.json" //../data/weekly_brief.json"
+    breaking: "dummy_breaking.json", //../data/breaking_feed.json",
+    daily: "dummy_daily.json", //../data/daily_brief.json",
+    weekly: "dummy_weekly.json" //../data/weekly_brief.json"
   };
 
   // categories
