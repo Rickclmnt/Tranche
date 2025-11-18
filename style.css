@@ -44,7 +44,7 @@ a{color:inherit}
 .billboard-text h2{margin:0;font-size:20px}
 
 /* content */
-.container{max-width:980px;margin:22px auto;padding:0 18px}
+.container{position:left;max-width:980px;margin:22px auto;padding:0 18px}
 .story{background:#fff;border:1px solid #eee;padding:14px;margin-bottom:12px}
 .story h3{margin:0 0 8px 0;cursor:pointer}
 .meta{font-size:13px;color:#666;margin-top:8px}
