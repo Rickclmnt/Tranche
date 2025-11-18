@@ -1,0 +1,29 @@
+{
+  "period_start":"2025-11-01",
+  "period_end":"2025-11-07",
+  "average_trajectory":0.68,
+  "top_positive":[
+    {
+      "id":"w-1",
+      "title":"Global Cooperation on Cybersecurity Framework Announced",
+      "summary":"Nations agree to a shared protocol for cross-border incident response.",
+      "full_text":"Leaders signed a non-binding accord to accelerate information sharing and coordination.",
+      "region":"Global",
+      "category":"Politics",
+      "image":"data/default.jpg",
+      "source_url":"https://example.com/cyber-agreement",
+      "positive_outlook":"May reduce cross-border cyber friction.",
+      "negative_outlook":"Implementation will take time and trust-building.",
+      "verification":{"status":"verified","confidence":0.88},
+      "timestamp":"2025-11-05T12:00:00Z"
+    }
+  ],
+  "trajectory_points":[
+    {"date":"2025-11-01","score":0.62},
+    {"date":"2025-11-02","score":0.65},
+    {"date":"2025-11-03","score":0.66},
+    {"date":"2025-11-04","score":0.70},
+    {"date":"2025-11-05","score":0.69},
+    {"date":"2025-11-06","score":0.68}
+  ]
+}

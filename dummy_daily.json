@@ -1,0 +1,21 @@
+{
+  "date": "2025-11-06",
+  "total_events": 3,
+  "average_confidence": 0.78,
+  "top_events": [
+    {
+      "id":"d-1",
+      "title":"Record Heatwaves in Southeast Asia",
+      "summary":"Meteorological agencies confirm record-breaking temperatures.",
+      "full_text":"Multiple cities recorded unprecedented high temperatures causing power spikes.",
+      "region":"Asia",
+      "category":"Science",
+      "image":"data/default.jpg",
+      "source_url":"https://example.com/heat",
+      "positive_outlook":"May accelerate climate adaptation funding.",
+      "negative_outlook":"Local agriculture and health systems strained.",
+      "verification":{"status":"pending","confidence":0.6},
+      "timestamp":"2025-11-06T12:00:00Z"
+    }
+  ]
+}
